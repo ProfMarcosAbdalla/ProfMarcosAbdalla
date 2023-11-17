@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, seja bem vindo ao meu GitHub, sou o Prof. Marcos Abdalla 🤘
 
-<!--
-**ProfMarcosAbdalla/ProfMarcosAbdalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org.br/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
-Here are some ideas to get you started:
+![Abdalla GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfMarcosAbdalla&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style = "display: inline_block"><br/>
+<img aling="center" alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img aling="center" alt="GoogleColab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+<img aling="center" alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
+</div><br/>
+
+<p>"I shall be telling this with a sigh <br/>
+Somewhere ages and ages hence:<br/>
+Two roads diverged in a wood, and I—<br/>
+I took the one less traveled by,<br/>
+And that has made all the difference."<br/>
+</p>
+[Robert Frost](https://www.poetryfoundation.org/poets/robert-frost)<br/>
